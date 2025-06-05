@@ -11,4 +11,6 @@ Projeto apenas para testar conhecimento.
 
 ## 🧠 Tecnologias utilizadas:
 
-O aplicativo **foi apenas para testar meu nivel de conhecimento** porém no momento não pretendo continuar
+O aplicativo **foi apenas para testar meu nivel de conhecimento** porém no momento não pretendo continuar.
+
+aplicativo usa a API do itunes então as musicas são todas previws 
